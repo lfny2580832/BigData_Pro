@@ -1,0 +1,11 @@
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/zookeeper/zkClient.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/zookeeper/DistributedServer.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/zookeeper/ZookeeperClient.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/hdfs/HDFSClient.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/zookeeper/DistributedClient.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/zookeeper/zkServer.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/MapReduce/WordCountMRJobNew.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/MapReduce/log_analysis/SelectWhereMRJob.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/io/AdMetricWritable.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/MapReduce/WordCountMRJob.java
+/Users/niuyan/eclipse-workspace/bigdata_pro/src/main/java/bigdata/MapReduce/log_analysis/SumGroupByMRJobNew.java
